@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>HappyMinds_MHP Appcast</title>
+        <title>HappyMinds For Therapist</title>
         <item>
-            <title>Version 1.0.10</title>
+            <title>Version 1.0.12</title>
             <description>desc</description>
-            <pubDate>Tue, 18 May 2021 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.asha.happy_minds_mhp" sparkle:version="1.0.8" sparkle:os="android" />
+            <pubDate>Tue, 30 July 2021 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.asha.happy_minds_mhp" sparkle:version="1.0.12" sparkle:os="android" />
         </item>
     </channel>
 </rss>
