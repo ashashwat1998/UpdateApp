@@ -3,10 +3,10 @@
     <channel>
         <title>HappyMinds Appcast</title>
         <item>
-            <title>Version 3.1.1</title>
+            <title>Version 3.1.0</title>
             <description>desc</description>
             <pubDate>Mon, 20 Sept 2022 09:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.asha.happy_minds" sparkle:version="3.1.1" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.asha.happy_minds" sparkle:version="3.1.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
